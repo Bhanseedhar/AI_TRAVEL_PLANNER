@@ -1,6 +1,6 @@
 # 🌍 AI Travel Planner Agentic Application
 
-# 🌍 AI Travel Planner Agentic Application
+
 
 An AI-powered travel planning assistant built using FastAPI, Streamlit, and LangChain, integrating multiple tools like weather forecasting, expense calculation, place search, and currency conversion to generate personalized trip plans.
 
